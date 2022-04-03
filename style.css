@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/*font-family: 'Poppins', sans-serif;*/
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #363636;
+    color: #ddd;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+   text-align: center;
+}
+
+
+#dc-text {
+   
+    text-align: center;
+  }
+
+#dc-text-ıd {
+  color: black;
+  text-align: center;
+}
+
+#gameName {
+    text-align: center;
+    
+}
+
+#gameNameEqual {
+ text-align: center;
+}
+
+#framework {
+    border-style: solid;
+}
+
+#btn {
+  background-color: #ddd;
+  border: none;
+  color: #363636;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+ 
+}
